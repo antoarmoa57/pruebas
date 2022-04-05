@@ -1,0 +1,15 @@
+.contenedor{
+    background-color: blueviolet;
+    padding: 30px;
+    display:flex;
+}
+
+.caja{
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 100px;
+    margin: 30px;
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
